@@ -2,11 +2,11 @@
 
 ## MATERIAIS DE APOIO:
 
-[Java: Variáveis e constantes](https://www.devmedia.com.br/java-variaveis-e-constantes/38311#:~:text=Uma%20vari%C3%A1vel%20%C3%A9%20um%20recurso,vari%C3%A1veis%2C%20vari%C3%A1veis%20finais%20e%20constantes.)
-[Java: Tipos primitivos e Variáveis](https://www.devmedia.com.br/tipos-primitivos-e-variaveis-em-java/3149)
-[Java: if/else e o operador ternário](https://www.devmedia.com.br/java-if-else-e-o-operador-ternario/38185)
-[Java: Como funciona a classe Scanner](https://www.devmedia.com.br/como-funciona-a-classe-scanner-do-java/28448)
-[Java: System.out - Objeto de saída](https://www.devmedia.com.br/system-out-objeto-de-saida-em-java/25240)
+- [Java: Variáveis e constantes](https://www.devmedia.com.br/java-variaveis-e-constantes/38311#:~:text=Uma%20vari%C3%A1vel%20%C3%A9%20um%20recurso,vari%C3%A1veis%2C%20vari%C3%A1veis%20finais%20e%20constantes.)
+- [Java: Tipos primitivos e Variáveis](https://www.devmedia.com.br/tipos-primitivos-e-variaveis-em-java/3149)
+- [Java: if/else e o operador ternário](https://www.devmedia.com.br/java-if-else-e-o-operador-ternario/38185)
+- [Java: Como funciona a classe Scanner](https://www.devmedia.com.br/como-funciona-a-classe-scanner-do-java/28448)
+- [Java: System.out - Objeto de saída](https://www.devmedia.com.br/system-out-objeto-de-saida-em-java/25240)
 
 ## JAVA: Exercícios sobre entrada e saída de dados
 
